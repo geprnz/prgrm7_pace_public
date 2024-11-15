@@ -1,0 +1,20 @@
+Invalid rating value:         M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Invalid year value:           B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+Invalid rating value:         B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+Invalid rating value:         M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+Invalid year value:           B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+Invalid weeksNYT value:       B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+Invalid year value:           S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+Invalid length value:         S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+Invalid top40 value:          S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+Insufficient field data:      Q
+Unable to process command. The rating 11 is out of range. Please enter a rating between 1 and 10.
+Invalid rating value:         N,M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+Invalid values:               N,S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+Invalid values:               N,S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+Invalid top40 value:          N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,ERROR
+Invalid weeksNYT value:       N,B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,ERROR
+Invalid values:               N,B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+Invalid year value:           N,B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+Unable to process command. The rating 15 is out of range. Please enter a rating between 1 and 10.
+Thank You for Using Media Everywhere
